@@ -36,6 +36,7 @@ It uses the **continuous bag-of-words (CBOW)** approach, where context words are
      word_embeddings = model.get_weights()[0]
      embedding_this = word_embeddings[word_index["this"]]
      ```
+     <img width="677" height="358" alt="image" src="https://github.com/user-attachments/assets/2e0c5435-0156-4f7a-8894-34840e6415a2" />
 
 ---
 
